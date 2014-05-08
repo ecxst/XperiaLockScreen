@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Užrakintas ekranas</string>
+    <string name="lockscreen_settings_title">Užrakintas ekranas</string>
+    <string name="lockscreen_settings_title_txt">Užrakintas ekranas</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Keisti užrakinto ekrano foną</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Nustatomas fonas</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Negalima nustatyti fono</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Fono pasirinkimas</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">„Xperia™“ fonai</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Nustatyti foną</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Albumas</string>
+    <string name="lockscreen_unlock_hint">Norėdami atrakinti, braukite aukštyn arba žemyn</string>
+    <string name="lockscreen_short_unlock_hint">Perbraukite, kad atrakintumėte</string>
+    <string name="lockscreen_accessibility_unlock_hint">Braukite aukštyn arba žemyn nuo ekrano centro, kad atrakintumėte</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Užrakto ekrano fonas</string>
+</resources>

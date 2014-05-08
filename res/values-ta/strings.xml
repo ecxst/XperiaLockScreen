@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">பூட்டுத் திரை</string>
+    <string name="lockscreen_settings_title">பூட்டுத் திரை</string>
+    <string name="lockscreen_settings_title_txt">பூட்டுத் திரை</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">பூட்டு திரையில் வால்பேப்பரை மாற்ற</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">வால்பேப்பரை அமை</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">வால் பேப்பரை அமைக்க முடியவில்லை</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">வால்பேப்பரைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ வால்பேப்பர்கள்</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">வால்பேப்பர் அமை</string>
+    <string name="lockscreen_wallpaper_picker_album_name">ஆல்பம்</string>
+    <string name="lockscreen_unlock_hint">பூட்டுநீக்க மேலே அல்லது கீழே நகர்த்தவும்</string>
+    <string name="lockscreen_short_unlock_hint">பூட்டுநீக்க தேய்க்கவும்</string>
+    <string name="lockscreen_accessibility_unlock_hint">பூட்டுநீக்க திரையின் மையத்தில் மேலே அல்லது கீழே தேய்க்கவும்</string>
+    <string name="lockscreen_set_as_wallpaper_txt">பூட்டு திரை வால்பேப்பர்</string>
+</resources>

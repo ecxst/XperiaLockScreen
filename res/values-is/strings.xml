@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Lásskjár</string>
+    <string name="lockscreen_settings_title">Lásskjár</string>
+    <string name="lockscreen_settings_title_txt">Lásskjár</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Breyta veggfóðri á lásskjá</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Veggfóður valið</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Ekki hægt að stilla veggfóður</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Velja veggfóður</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ veggfóður</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Velja veggfóður</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Albúm</string>
+    <string name="lockscreen_unlock_hint">Renndu upp eða niður til að opna</string>
+    <string name="lockscreen_short_unlock_hint">Strjúktu til að opna</string>
+    <string name="lockscreen_accessibility_unlock_hint">Renndu upp eða niður frá miðju skjásins til að opna</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Bakgrunnsmynd lásskjás</string>
+</resources>

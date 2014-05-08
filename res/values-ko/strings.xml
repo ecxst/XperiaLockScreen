@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">잠금 화면</string>
+    <string name="lockscreen_settings_title">잠금 화면</string>
+    <string name="lockscreen_settings_title_txt">잠금 화면</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">잠금 화면에서 배경화면 변경</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">배경화면 설정</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">배경화면을 설정할 수 없음</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">배경화면 선택</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ 배경화면</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">배경화면 설정</string>
+    <string name="lockscreen_wallpaper_picker_album_name">앨범</string>
+    <string name="lockscreen_unlock_hint">위 또는 아래로 스와이프하여 잠금 해제</string>
+    <string name="lockscreen_short_unlock_hint">문질러서 잠금 해제</string>
+    <string name="lockscreen_accessibility_unlock_hint">잠금을 해제하려면 화면 중심에서 위로 또는 아래로 문지름</string>
+    <string name="lockscreen_set_as_wallpaper_txt">화면 배경화면 잠금</string>
+</resources>

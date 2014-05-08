@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.lockscreen.xperia.XperiaKeyguardNoSecurityView android:id="@id/xperia_keyguard_no_security_view_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/stub_message_area" android:inflatedId="@id/inflated_message_area" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <RelativeLayout android:id="@id/accessability_container" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/inflated_carrier_text" android:layout_below="@id/inflated_message_area" android:contentDescription="@string/lockscreen_accessibility_unlock_hint">
+        <include android:id="@id/hint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/lockscreen_hint_bottom_margin" android:layout_centerInParent="true" layout="@layout/unlock_hint" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/lockscreen_bottom_margin" android:layout_alignParentBottom="true">
+        <ViewStub android:id="@id/multi_sim_carrier" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <ViewStub android:id="@id/stub_carrier_text" android:inflatedId="@id/inflated_carrier_text" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.sonymobile.lockscreen.xperia.XperiaKeyguardNoSecurityView>

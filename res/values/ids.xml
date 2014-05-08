@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="xperia_keyguard_no_security_view_root">false</item>
+    <item type="id" name="stub_message_area">false</item>
+    <item type="id" name="inflated_message_area">false</item>
+    <item type="id" name="accessability_container">false</item>
+    <item type="id" name="inflated_carrier_text">false</item>
+    <item type="id" name="hint">false</item>
+    <item type="id" name="multi_sim_carrier">false</item>
+    <item type="id" name="stub_carrier_text">false</item>
+    <item type="id" name="xperia_keyguard_background_view">false</item>
+    <item type="id" name="hintText">false</item>
+    <item type="id" name="gallery">false</item>
+    <item type="id" name="set">false</item>
+    <item type="id" name="wallpaper_chooser_fragment">false</item>
+    <item type="id" name="wallpaper_image">false</item>
+</resources>

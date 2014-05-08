@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.sonyericsson.lockscreen.uxpnxt">
+    <permission android:name="com.sonymobile.permission.SET_LOCKSCREEN_WALLPAPER" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.sonymobile.permission.WRITE_LOCKSCREEN_WALLPAPER" android:protectionLevel="signature"/>
+    <permission android:name="com.sonymobile.permission.READ_LOCKSCREEN_WALLPAPER" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.sonymobile.permission.EXTERNAL_LOCKSCREEN"/>
+    <uses-permission android:name="com.sonymobile.permission.SET_LOCKSCREEN_WALLPAPER"/>
+    <uses-permission android:name="com.sonymobile.permission.WRITE_LOCKSCREEN_WALLPAPER"/>
+    <uses-permission android:name="com.sonymobile.permission.READ_LOCKSCREEN_WALLPAPER"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <instrumentation android:label="Unit tests for Xperia Lock Screen" android:name="android.test.InstrumentationTestRunner" android:targetPackage="com.sonyericsson.lockscreen.uxpnxt.test"/>
+    <application android:allowBackup="true" android:hardwareAccelerated="true" android:label="@string/lockscreen_app_name" android:requiredForAllUsers="true">
+        <uses-library android:name="android.test.runner"/>
+        <meta-data android:name="com.sonymobile.lockscreen.ENTRYCLASS" android:value="com.sonymobile.lockscreen.xperia.XperiaKeyguardComponentFactory"/>
+        <provider android:authorities="com.sonymobile.lockscreen.xperia.wallpaperprovider" android:exported="true" android:name="com.sonymobile.lockscreen.wallpaper.WallpaperProvider" android:readPermission="com.sonymobile.permission.READ_LOCKSCREEN_WALLPAPER" android:writePermission="com.sonymobile.permission.WRITE_LOCKSCREEN_WALLPAPER"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:icon="@drawable/semc_lockscreen_wallpaper_icon" android:label="@string/lockscreen_settings_title_txt" android:name="com.sonymobile.lockscreen.settings.Setup" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+            <intent-filter>
+                <action android:name="com.sonyericsson.settings.intent.action.LOCKSCREEN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter android:label="@string/lockscreen_set_as_wallpaper_txt">
+                <action android:name="android.intent.action.ATTACH_DATA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="image/*"/>
+            </intent-filter>
+            <meta-data android:name="com.sonymobile.settings.preference.TITLE" android:resource="@string/lockscreen_settings_title"/>
+            <meta-data android:name="com.sonymobile.settings.preference.SUMMARY" android:resource="@string/lockscreen_settings_wallpaper_summary_txt"/>
+        </activity>
+        <activity android:excludeFromRecents="true" android:icon="@drawable/semc_wallpaper_picker" android:label="@string/lockscreen_wallpaper_picker_semc_name" android:name="com.sonymobile.lockscreen.settings.WallpaperChooser" android:theme="@android:style/Theme.DeviceDefault">
+            <intent-filter>
+                <action android:name="com.sonyericsson.lockscreen.settings.PICK_WALLPAPER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:icon="@drawable/semc_wallpaper_picker_gallery" android:label="@string/lockscreen_wallpaper_picker_album_name" android:name="com.sonymobile.lockscreen.settings.WallpaperPickerGallery">
+            <intent-filter>
+                <action android:name="com.sonyericsson.lockscreen.settings.PICK_WALLPAPER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:exported="true" android:name="com.sonymobile.lockscreen.settings.SetWallpaperReceiver" android:permission="com.sonymobile.permission.SET_LOCKSCREEN_WALLPAPER">
+            <intent-filter>
+                <action android:name="com.sonymobile.lockscreen.SET_LOCKSCREEN_WALLPAPER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.sonymobile.lockscreen.SET_LOCKSCREEN_WALLPAPER"/>
+                <data android:scheme="android.resource"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.sonymobile.lockscreen.SET_LOCKSCREEN_WALLPAPER"/>
+                <data android:mimeType="image/*"/>
+            </intent-filter>
+            <meta-data android:name="com.sonymobile.lockscreen.MULTI_USER_SUPPORT" android:value="false"/>
+        </receiver>
+        <service android:exported="true" android:name="com.sonymobile.lockscreen.settings.SetWallpaperService" android:permission="com.sonymobile.permission.WRITE_LOCKSCREEN_WALLPAPER"/>
+    </application>
+</manifest>

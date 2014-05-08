@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="velocity_to_unlock">150</integer>
+    <integer name="distance_to_unlock">70</integer>
+    <integer name="text_shadow_radius">6</integer>
+    <integer name="text_shadow_dx">0</integer>
+    <integer name="text_shadow_dy">3</integer>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Կողպէկրան</string>
+    <string name="lockscreen_settings_title">Կողպէկրան</string>
+    <string name="lockscreen_settings_title_txt">Կողպէկրան</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Փոխել էկրանի կողպման պաստառը</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Պաստառը նախադրվում է</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Անհնար է տեղակայել պաստառը</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Ընտրել պաստառ</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ պաստառներ</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Նախադրել պաստառ</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Ալբոմ</string>
+    <string name="lockscreen_unlock_hint">Ապակողպելու համար մատով անցկացրեք վերև կամ ներքև</string>
+    <string name="lockscreen_short_unlock_hint">Ապակողպելու համար անցկացրեք մատով</string>
+    <string name="lockscreen_accessibility_unlock_hint">Ապակողպելու համար էկրանի կենտրոնից մատով անցկացրեք վերև կամ ներքև</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Էկրանի կողպման պաստառ</string>
+</resources>

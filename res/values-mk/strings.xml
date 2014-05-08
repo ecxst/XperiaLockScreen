@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Заклучен екран</string>
+    <string name="lockscreen_settings_title">Заклучен екран</string>
+    <string name="lockscreen_settings_title_txt">Заклучен екран</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Промени заднина во заклучен екран</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Поставување заднина</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Не може да се постави заднина</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Избор на заднина</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Заднини на Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Постави заднина</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Албум</string>
+    <string name="lockscreen_unlock_hint">Лизгајте нагоре или надолу за да отклучите</string>
+    <string name="lockscreen_short_unlock_hint">Лизгајте за да отклучите</string>
+    <string name="lockscreen_accessibility_unlock_hint">Поминете со прстот нагоре или надолу од центарот на екранот за отклучување</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Заднина на заклучен екран</string>
+</resources>

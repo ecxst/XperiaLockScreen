@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Obrazovka uzamknutia</string>
+    <string name="lockscreen_settings_title">Obrazovka uzamknutia</string>
+    <string name="lockscreen_settings_title_txt">Obrazovka uzamknutia</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Zmena tapety na zamknutej obrazovke</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Nastavuje sa tapeta</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Nepodarilo sa nastaviť tapetu</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Výber tapety</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Tapety Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Nastaviť tapetu</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Telefón odomknete potiahnutím nahor alebo nadol</string>
+    <string name="lockscreen_short_unlock_hint">Odomknite potiahnutím prstom</string>
+    <string name="lockscreen_accessibility_unlock_hint">Telefón odomknete potiahnutím prsta nahor alebo nadol zo stredu obrazovky</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Tapeta obrazovky uzamknutia</string>
+</resources>

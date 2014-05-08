@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Ekran blokady</string>
+    <string name="lockscreen_settings_title">Ekran blokady</string>
+    <string name="lockscreen_settings_title_txt">Ekran blokady</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Zmień tapetę przy zablokowanym ekranie</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Ustawianie tapety</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Nie można ustawić tapety</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Wybierz tapetę</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Tapety Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Ustaw tapetę</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Przeciągnij w dół lub w górę, aby odblokować</string>
+    <string name="lockscreen_short_unlock_hint">Przeciągnij, aby odblokować</string>
+    <string name="lockscreen_accessibility_unlock_hint">Przeciągnij w dół lub w górę od środka ekranu, aby odblokować</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Tapeta ekranu blokady</string>
+</resources>

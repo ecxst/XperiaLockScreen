@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_accessibility_unlock_hint">Swipe up or down from the centre of the screen to unlock</string>
+</resources>

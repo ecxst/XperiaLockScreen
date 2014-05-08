@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">ലോക്ക് സ്ക്രീന്‍</string>
+    <string name="lockscreen_settings_title">ലോക്ക് സ്ക്രീന്‍</string>
+    <string name="lockscreen_settings_title_txt">ലോക്ക് സ്ക്രീന്‍</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">സ്ക്രീന്‍ ലോക്ക് ചെയ്യുന്നതില്‍ വോള്. മാ.</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">വോള്‍പേപ്പര്‍ ക്രമീകരിക്കല്‍</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">വോള്‍പേപ്പര്‍ ക്രമീകരിക്കാന്‍ കഴിഞ്ഞില്ല</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">വാള്‍പേപ്പര്‍ തിരഞ്ഞെടുക്കുക</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ വോള്‍പേപ്പറുകള്‍</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">വോള്‍പേപ്പര്‍ ക്രമീകരിക്കുക</string>
+    <string name="lockscreen_wallpaper_picker_album_name">ആല്‍ബം</string>
+    <string name="lockscreen_unlock_hint">അണ്‍‌ലോക്കുചെയ്യാന്‍ മുകളിലേക്കോ താഴേ. സൈപ്പു</string>
+    <string name="lockscreen_short_unlock_hint">ലോക്ക് നീക്കുന്നതിന് സ്വൈപ്പ് ചെയ്യുക</string>
+    <string name="lockscreen_accessibility_unlock_hint">അണ്‍‌ലോക്കുചെയ്യാന്‍ സ്ക്രീനിന്റെ മധ്യത്തില്‍ നിന്ന് മുകളിലേക്കോ താഴേക്കോ സൈപ്പുചെയ്യുക</string>
+    <string name="lockscreen_set_as_wallpaper_txt">ലോക്ക് സ്ക്രീന് വോള്‍പേപ്പര്‍</string>
+</resources>

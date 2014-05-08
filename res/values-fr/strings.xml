@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Écran de verrouillage</string>
+    <string name="lockscreen_settings_title">Écran de verrouillage</string>
+    <string name="lockscreen_settings_title_txt">Écran de verrouillage</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">"Modifier le fond de l'écran de verrouillage"</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">"Définition du fond d'écran"</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">"Le fond d'écran n'a pas pu être défini."</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">"Sélection fond d'écran"</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">"Fonds d'écran Xperia™ "</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">"Définir le fond d'écran"</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Faire glisser vers le haut ou le bas pour déverrouiller</string>
+    <string name="lockscreen_short_unlock_hint">Balayer pour déverrouiller</string>
+    <string name="lockscreen_accessibility_unlock_hint">"Faire glisser vers le haut ou le bas depuis le centre de l'écran pour déverrouiller"</string>
+    <string name="lockscreen_set_as_wallpaper_txt">"Fond d'écran de verrouillage"</string>
+</resources>

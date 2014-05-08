@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Экранды құлыптау</string>
+    <string name="lockscreen_settings_title">Экранды құлыптау</string>
+    <string name="lockscreen_settings_title_txt">Экранды құлыптау</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Экранды құлыптауда фон суретін өзгерту</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Фон суретін орнату</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Фон суреті орнатылмады</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Тұсқағазды таңдау</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ фон суреттері</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Тұсқағаз жоқ</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Альбом</string>
+    <string name="lockscreen_unlock_hint">Құлыпты ашу үшін жоғары немесе төмен сырғытыңыз</string>
+    <string name="lockscreen_short_unlock_hint">Құлыпты ашу үшін айналдырыңыз</string>
+    <string name="lockscreen_accessibility_unlock_hint">Құлыпты ашу үшін жоғары немесе төмен жанап өтіңіз</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Экранның фон суретін құлыптау</string>
+</resources>

@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (signatory)
+
+Name: res/drawable/wallpaper_gallery_background.xml
+SHA1-Digest: WJXFvF+OTqg6vkOeiwRDzryfhCg=
+
+Name: res/drawable/wallpaper_gallery_item.xml
+SHA1-Digest: pOPU6GI734nVOmm44hKAB1Y/gF8=
+
+Name: res/layout/keyguard_no_security_view.xml
+SHA1-Digest: /NqpgWkr+3UZ+wkBwzBeQ7byQVE=
+
+Name: res/layout/keyguard_unlocking_background.xml
+SHA1-Digest: U3d8xCd/xRAIZCWjB4pUEPwDEK4=
+
+Name: res/layout/unlock_hint.xml
+SHA1-Digest: WY8Ul0YaNM931VrTLpt6ePWt5Vc=
+
+Name: res/layout/wallpaper_chooser.xml
+SHA1-Digest: Y+DzOYjI07ZZhnyFWNyvu0uaNyE=
+
+Name: res/layout/wallpaper_chooser_base.xml
+SHA1-Digest: /X03iwn8A9JjC910fb6kAm+Lla4=
+
+Name: res/layout/wallpaper_item.xml
+SHA1-Digest: 9HgInptN/y/a18+4yfQu0vCtbMU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5X0O7RplBcHqCOENv8jsSks+w6M=
+
+Name: resources.arsc
+SHA1-Digest: xR+RWd2WxWSk6qlCf1iCjVMmVss=
+
+Name: res/mipmap-hdpi/ic_launcher_settings.png
+SHA1-Digest: 6MHUP8Ko0wHIejk25nr9unn6Vzs=
+
+Name: res/mipmap-xhdpi/ic_launcher_settings.png
+SHA1-Digest: qNb7WCOYzSqKcGXPXYY3RK2Eya4=
+
+Name: res/drawable-xxhdpi/arrow_unlock_hint_down.png
+SHA1-Digest: PJVc+KS7JsovfuFgdnlP1NlFQos=
+
+Name: res/drawable-xxhdpi/arrow_unlock_hint_up.png
+SHA1-Digest: MtHt9t4t9UlnlhAwyI05YeBbbms=
+
+Name: res/drawable-xxhdpi/default_wallpaper.jpg
+SHA1-Digest: vKGIXszvJo1So1D+nxVHTcuS53A=
+
+Name: res/drawable-xxhdpi/grid_focused.9.png
+SHA1-Digest: yT4fsR+k8tzqIQSrjMkPque2AVo=
+
+Name: res/drawable-xxhdpi/grid_pressed.9.png
+SHA1-Digest: UTi3Bn1WNd/WN9T5X9E6qUXfOOw=
+
+Name: res/drawable-xxhdpi/grid_selected.9.png
+SHA1-Digest: yuAvMp5YckJleTAhojv8VjE2LcI=
+
+Name: res/drawable-xxhdpi/semc_lockscreen_wallpaper_icon.png
+SHA1-Digest: rAoII1xAZRQL3UkwLm/tuRQFMl4=
+
+Name: res/drawable-xxhdpi/semc_wallpaper_picker.png
+SHA1-Digest: eGGVw33pwTz+cQ5Qht/vY6qDijE=
+
+Name: res/drawable-xxhdpi/semc_wallpaper_picker_gallery.png
+SHA1-Digest: 0u7F5zuzyRLhMCBCWq+Os0Paia4=
+
+Name: classes.dex
+SHA1-Digest: fwD4yKBoFGuvBVdp40jzgYQ9TGc=
+

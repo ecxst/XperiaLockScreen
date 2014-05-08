@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Zaključani zaslon</string>
+    <string name="lockscreen_settings_title">Zaključani zaslon</string>
+    <string name="lockscreen_settings_title_txt">Zaključani zaslon</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Promjena pozadine na zaklj. zaslonu</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Postavljanje pozadine</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Nije moguće postaviti pozadinu</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Odabir pozadine</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Pozadine pametnog telefona Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Postavi pozadinu</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Prijeđite prstom gore ili dolje da biste otključali telefon</string>
+    <string name="lockscreen_short_unlock_hint">Otključajte povlačenjem prsta</string>
+    <string name="lockscreen_accessibility_unlock_hint">Prijeđite prstom gore ili dolje od središta zaslona da biste ga otključali</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Zaključaj pozadinu zaslona</string>
+</resources>

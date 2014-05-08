@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Màn hình khoá</string>
+    <string name="lockscreen_settings_title">Màn hình khoá</string>
+    <string name="lockscreen_settings_title_txt">Màn hình khoá</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Thay đổi hình nền trên màn hình khoá</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Đang cài hình nền</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Không thể cài hình nền</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Chọn hình nền</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">"Hình nền của  Xperia™"</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Cài hình nền</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Trượt lên hoặc xuống để mở khoá</string>
+    <string name="lockscreen_short_unlock_hint">Vuốt để mở khóa</string>
+    <string name="lockscreen_accessibility_unlock_hint">Trượt lên hoặc xuống từ giữa màn hình để mở khoá</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Hình nền màn hình khoá</string>
+</resources>

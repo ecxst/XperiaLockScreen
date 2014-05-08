@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="set_button_width">220.0dip</dimen>
+    <dimen name="lockscreen_hint_bottom_margin">190.0dip</dimen>
+    <dimen name="lockscreen_bottom_margin">8.0dip</dimen>
+    <dimen name="lockscreen_text_size_medium">14.0sp</dimen>
+    <dimen name="lockscreen_text_padding">0.0dip</dimen>
+</resources>

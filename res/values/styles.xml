@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="XperiaNoSecurityViewTextAppearance" parent="@android:style/TextAppearance.DeviceDefault">
+        <item name="android:textSize">@dimen/lockscreen_text_size_medium</item>
+    </style>
+</resources>

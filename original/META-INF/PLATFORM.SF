@@ -1,0 +1,70 @@
+Signature-Version: 1.0
+Created-By: 1.0 (signatory)
+SHA1-Digest-Manifest: ewwB8b19ho0U3wyBoIFtc//Ml2Q=
+
+Name: res/drawable/wallpaper_gallery_background.xml
+SHA1-Digest: 01u2T+VQMb8Ptc2B+pNMohNSLEg=
+
+Name: res/drawable/wallpaper_gallery_item.xml
+SHA1-Digest: MaVEqmUjDo5IAfW+gpd90zyZX5k=
+
+Name: res/layout/keyguard_no_security_view.xml
+SHA1-Digest: V85EciGNuIKop4cR3Sbm17pwZEw=
+
+Name: res/layout/keyguard_unlocking_background.xml
+SHA1-Digest: CRZrqBxG9gbj7g+er1pLoYbyZwY=
+
+Name: res/layout/unlock_hint.xml
+SHA1-Digest: 3uO++cnQNZsrP7SMt5sUWfDTyr8=
+
+Name: res/layout/wallpaper_chooser.xml
+SHA1-Digest: juaaV5/4fOAg6vArMqlSsuud+g0=
+
+Name: res/layout/wallpaper_chooser_base.xml
+SHA1-Digest: 0KogPflwwa6XZ3VDAZ8tXSpA6Dg=
+
+Name: res/layout/wallpaper_item.xml
+SHA1-Digest: G2+7OC5ixqUGcfNcuZp5BnoQlK0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: tg+p1CjfYtS760t7K1zQfSshx5A=
+
+Name: resources.arsc
+SHA1-Digest: dmFMbauj3K3nvuqv7esXJfkN9M0=
+
+Name: res/mipmap-hdpi/ic_launcher_settings.png
+SHA1-Digest: bv0ZC52tQEhTUCTF5Zey0yBmyXY=
+
+Name: res/mipmap-xhdpi/ic_launcher_settings.png
+SHA1-Digest: jxcCFtSToaAKk+BBHtob2BTcr7o=
+
+Name: res/drawable-xxhdpi/arrow_unlock_hint_down.png
+SHA1-Digest: diMoG10mbSOwf4upMX5lzIv5c/M=
+
+Name: res/drawable-xxhdpi/arrow_unlock_hint_up.png
+SHA1-Digest: 1nqPABZknq6WhM3p34o8YlX0eUA=
+
+Name: res/drawable-xxhdpi/default_wallpaper.jpg
+SHA1-Digest: PJ3ZGIEWIvxUt//VRh3e+KbeUe0=
+
+Name: res/drawable-xxhdpi/grid_focused.9.png
+SHA1-Digest: nZwnPCHudj7712fhwSSPDLdGTQg=
+
+Name: res/drawable-xxhdpi/grid_pressed.9.png
+SHA1-Digest: B7EgzTpn1Q1wYNVIY63c9Aw3ycg=
+
+Name: res/drawable-xxhdpi/grid_selected.9.png
+SHA1-Digest: Rad4+ON6ukRtNaYwo+tQd01HD6c=
+
+Name: res/drawable-xxhdpi/semc_lockscreen_wallpaper_icon.png
+SHA1-Digest: dneETYMGzzdMvo5Q32tgvHPhIE8=
+
+Name: res/drawable-xxhdpi/semc_wallpaper_picker.png
+SHA1-Digest: Cy6Fnr6hC/RF63baQOPJPTNPaiw=
+
+Name: res/drawable-xxhdpi/semc_wallpaper_picker_gallery.png
+SHA1-Digest: CvDYTfj+keyZ0rcQQMnb8/FWR6I=
+
+Name: classes.dex
+SHA1-Digest: u/lCbN5c1j5vfcQam0sb5hTin5Y=
+

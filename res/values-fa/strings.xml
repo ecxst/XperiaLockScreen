@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">صفحه قفل</string>
+    <string name="lockscreen_settings_title">صفحه قفل</string>
+    <string name="lockscreen_settings_title_txt">صفحه قفل</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">تغییر تصویر پیش زمینه در صفحه قفل</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">تنظیم تصویر زمینه</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">نمی توان تصویر زمینه را تنظیم کرد</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">انتخاب تصویر زمینه</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">تصویر زمینه های ™Xperia</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">تنظیم تصویر زمینه</string>
+    <string name="lockscreen_wallpaper_picker_album_name">آلبوم</string>
+    <string name="lockscreen_unlock_hint">برای بازگشایی قفل بالا یا پایین بروید</string>
+    <string name="lockscreen_short_unlock_hint">برای باز کردن بکشید</string>
+    <string name="lockscreen_accessibility_unlock_hint">برای بازگشایی قفل، از مرکز صفحه به بالا یا پایین بکشید</string>
+    <string name="lockscreen_set_as_wallpaper_txt">تصویر زمینه صفحه قفل</string>
+</resources>

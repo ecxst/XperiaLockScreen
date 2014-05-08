@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">স্ক্রীনে তালা লাগানো</string>
+    <string name="lockscreen_settings_title">স্ক্রীনে তালা লাগানো</string>
+    <string name="lockscreen_settings_title_txt">স্ক্রীনে তালা লাগানো</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">পর্দা লকে ওয়ালপেপার পরিবর্তন করুন</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">ওয়ালপেপার সেট করা হচ্ছে</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">ওয়ালপেপার সেট করতে পারল না</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">ওয়ালপেপার নির্বাচন করুন</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ ওয়ালপেপার</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">ওয়ালপেপার স্থাপন করুন</string>
+    <string name="lockscreen_wallpaper_picker_album_name">অ্যালবাম</string>
+    <string name="lockscreen_unlock_hint">আনলক করার জন্য উপরের বা নিচের দিকে সুইপ করুন</string>
+    <string name="lockscreen_short_unlock_hint">লক প্রত্যাহার করতে আঙুল চালান</string>
+    <string name="lockscreen_accessibility_unlock_hint">লক খুলতে পর্দার কেন্দ্র থেকে উপরে বা নীচের দিকে আঙুল চালান</string>
+    <string name="lockscreen_set_as_wallpaper_txt">লক পর্দা ওয়ালপেপার</string>
+</resources>

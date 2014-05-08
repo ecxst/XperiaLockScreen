@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">หน้าจอขณะล็อก</string>
+    <string name="lockscreen_settings_title">หน้าขอขณะล็อก</string>
+    <string name="lockscreen_settings_title_txt">หน้าจอขณะล็อก</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">เปลี่ยนภาพพื้นหลังในมุมมองล็อกหน้าจอ</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">การตั้งค่าภาพพื้นหลัง</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">ไม่สามารถตั้งค่าภาพพื้นหลังได้</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">เลือกภาพพื้นหลัง</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">ภาพพื้นหลัง Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">ตั้งค่าภาพพื้นหลัง</string>
+    <string name="lockscreen_wallpaper_picker_album_name">อัลบั้ม</string>
+    <string name="lockscreen_unlock_hint">ปัดขึ้นหรือลงเพื่อปลดล็อก</string>
+    <string name="lockscreen_short_unlock_hint">ปัดเพื่อปลดล็อก</string>
+    <string name="lockscreen_accessibility_unlock_hint">ปัดขึ้นหรือลงจากตรงกลางหน้าจอเพื่อปลดล็อก</string>
+    <string name="lockscreen_set_as_wallpaper_txt">ภาพพื้นหลังสำหรับหน้าจอ ล็อกสกรีน</string>
+</resources>

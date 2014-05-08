@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Экран блокировки</string>
+    <string name="lockscreen_settings_title">Экран блокировки</string>
+    <string name="lockscreen_settings_title_txt">Экран блокировки</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Изменить фон на экране блокировки</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Установка фонового рисунка</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Не удалось установить фоновый рисунок</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Выбор фонового рисунка</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Фоновые рисунки Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Установить фон</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Альбом</string>
+    <string name="lockscreen_unlock_hint">Для разблокирования пролистните вверх или вниз</string>
+    <string name="lockscreen_short_unlock_hint">Проведите пальцем для разблокировки</string>
+    <string name="lockscreen_accessibility_unlock_hint">Для разблокирования проведите пальцем вверх или вниз от центра экрана</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Фоновый рисунок экрана блокировки</string>
+</resources>

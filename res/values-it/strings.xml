@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Blocca schermo</string>
+    <string name="lockscreen_settings_title">Blocca schermo</string>
+    <string name="lockscreen_settings_title_txt">Blocca schermo</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Modifica sfondo nello schermo bloccato</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Impostazione sfondo</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Impossibile impostare lo sfondo</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Seleziona sfondo</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Sfondi di Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Imposta sfondo</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Scorri in alto o in basso per sbloccare</string>
+    <string name="lockscreen_short_unlock_hint">Scorri per sbloccare</string>
+    <string name="lockscreen_accessibility_unlock_hint">Scorri in alto o in basso dal centro dello schermo per sbloccare</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Sfondo schermata di blocco</string>
+</resources>

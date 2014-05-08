@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Zaklenjeni zaslon</string>
+    <string name="lockscreen_settings_title">Zaklenjeni zaslon</string>
+    <string name="lockscreen_settings_title_txt">Zaklenjeni zaslon</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Spremeni ozadje pri zaklenjenem zaslonu</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Nastavljanje slike za ozadje</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Ni mogoče nastaviti slike za ozadje</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Izbor ozadja</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ – ozadja</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Nastavi ozadje</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Če želite odkleniti zaslon, podrsajte navzgor ali navzdol</string>
+    <string name="lockscreen_short_unlock_hint">Podrsnite in odklenite napravo</string>
+    <string name="lockscreen_accessibility_unlock_hint">Če želite odkleniti zaslon, s središča podrsajte navzgor oz. navzdol</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Ozadje zaklenjenega zaslona</string>
+</resources>

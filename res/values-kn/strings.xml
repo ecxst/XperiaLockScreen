@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">ಲಾಕ್ ಪರದೆ</string>
+    <string name="lockscreen_settings_title">ಲಾಕ್ ಪರದೆ</string>
+    <string name="lockscreen_settings_title_txt">ಲಾಕ್ ಪರದೆ</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">ಲಾಕ್ ಪರದೆಯಲ್ಲಿ ವಾಲ್ ಪೇಪರ್ ಬದಲಿಸು</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">ವಾಲ್ ಪೇಪರ್ ನಿಗದಿಪಡಿಸುತ್ತಿದೆ</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">ವಾಲ್ ಪೇಪರ್ ನಿಗದಿಪಡಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">ವಾಲ್ ಪೇಪರ್ ಆರಿಸಿ</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ ವಾಲ್ ಪೇಪರ್‌ಗಳು</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">ವಾಲ್ ಪೇಪರ್‌ ನಿಗದಿಪಡಿಸಿ</string>
+    <string name="lockscreen_wallpaper_picker_album_name">ಆಲ್ಬಂ</string>
+    <string name="lockscreen_unlock_hint">ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಮೇಲೆ ಮತ್ತು ಕೆಳಗೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+    <string name="lockscreen_short_unlock_hint">ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಉಜ್ಜಿ</string>
+    <string name="lockscreen_accessibility_unlock_hint">ಅನ್ಲಾಕ್ ಮಾಡಲು ಪರದೆಯ ಮಧ್ಯದಿಂದ ಮೇಲೆ ಅಥವಾ ಕೆಳಗೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+    <string name="lockscreen_set_as_wallpaper_txt">ಲಾಕ್ ಪರದೆ ವಾಲ್‌ಪೇಪರ್</string>
+</resources>

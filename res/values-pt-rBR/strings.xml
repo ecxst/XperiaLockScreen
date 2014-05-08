@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Bloqueio de tela</string>
+    <string name="lockscreen_settings_title">Bloqueio de tela</string>
+    <string name="lockscreen_settings_title_txt">Bloqueio de tela</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Alterar papel de parede no bloqueio de tela</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Definindo papel de parede</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Não foi possível definir o papel de parede</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Selecionar papel de parede</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Pap. parede Xperia™</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Definir papel de parede</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Álbum</string>
+    <string name="lockscreen_unlock_hint">Deslize para cima ou para baixo para desbloquear</string>
+    <string name="lockscreen_short_unlock_hint">Deslize para desbloquear</string>
+    <string name="lockscreen_accessibility_unlock_hint">Deslize para cima ou para baixo a partir do centro da tela para desbloquear</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Papel de parede do bloqueio de tela</string>
+</resources>

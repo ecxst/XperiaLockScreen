@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Lukustuskuva</string>
+    <string name="lockscreen_settings_title">Lukustuskuva</string>
+    <string name="lockscreen_settings_title_txt">Lukustuskuva</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Lukustuskuva taustpildi muutmine</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Taustpildi seadmine</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Taustpilti ei saanud seada</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Taustpildi valimine</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™ taustpildid</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Määra taustpilt</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Avamiseks libistage üles või alla</string>
+    <string name="lockscreen_short_unlock_hint">Avamiseks nipsake</string>
+    <string name="lockscreen_accessibility_unlock_hint">Avamiseks libistage sõrme ekraani keskelt üles või alla</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Lukustuskuva taustpilt</string>
+</resources>

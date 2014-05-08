@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">上鎖螢幕</string>
+    <string name="lockscreen_settings_title">上鎖螢幕</string>
+    <string name="lockscreen_settings_title_txt">上鎖螢幕</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">更改鎖定螢幕時的牆紙</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">設定牆紙</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">無法設定牆紙</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">選擇牆紙</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™牆紙</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">設定牆紙</string>
+    <string name="lockscreen_wallpaper_picker_album_name">相簿</string>
+    <string name="lockscreen_unlock_hint">往上或下滑動以解鎖</string>
+    <string name="lockscreen_short_unlock_hint">滑動以解鎖</string>
+    <string name="lockscreen_accessibility_unlock_hint">從螢幕中心往上或下滑動以解鎖</string>
+    <string name="lockscreen_set_as_wallpaper_txt">上鎖螢幕牆紙</string>
+</resources>

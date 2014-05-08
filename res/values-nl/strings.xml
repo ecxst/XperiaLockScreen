@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_app_name">Schermvergrendeling</string>
+    <string name="lockscreen_settings_title">Schermvergrendeling</string>
+    <string name="lockscreen_settings_title_txt">Schermvergrendeling</string>
+    <string name="lockscreen_settings_wallpaper_summary_txt">Achtergrond vergrendeld scherm wijzigen</string>
+    <string name="lockscreen_setting_wallpaper_wait_txt">Achtergrond instellen</string>
+    <string name="lockscreen_could_not_load_wallpaper_txt">Kan achtergrond niet instellen</string>
+    <string name="lockscreen_dialog_title_pick_wallpaper">Achtergrond selecteren</string>
+    <string name="lockscreen_wallpaper_picker_semc_name">Xperia™-achtergronden</string>
+    <string name="lockscreen_wallpaper_picker_semc_set_wallpaper">Achtergrond instellen</string>
+    <string name="lockscreen_wallpaper_picker_album_name">Album</string>
+    <string name="lockscreen_unlock_hint">Veeg omhoog of omlaag om te ontgrendelen</string>
+    <string name="lockscreen_short_unlock_hint">Schuif om te ontgrendelen</string>
+    <string name="lockscreen_accessibility_unlock_hint">Veeg omhoog of omlaag vanuit het midden van het scherm om de telefoon te ontgrendelen</string>
+    <string name="lockscreen_set_as_wallpaper_txt">Achtergrond vergrendeld scherm</string>
+</resources>
